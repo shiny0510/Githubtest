@@ -7,9 +7,11 @@
 4. 딥러닝: CNN 사용
 5. 데이터 0~9의 숫자 이미지로 이루어진 MNIST train 6만장 test 3만장.
 6. 모델 설계:
+
 ![architecture](https://github.com/user-attachments/assets/2bee3b4b-2351-475b-a230-a8044ae8cd0a)
 
 7. 결과:
+
 ![output](https://github.com/user-attachments/assets/3be509b7-28fc-40e5-b473-8c9b13c39332)
  
 8. 참고는 Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems 25 (2012).
